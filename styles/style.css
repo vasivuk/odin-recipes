@@ -1,0 +1,25 @@
+* {
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover {
+    color: gray;
+}
+
+.main-list li {
+    list-style: none;
+}
